@@ -1,0 +1,10 @@
+.env
+*.xlsx
+__pycache__/
+*.pyc
+*.pyo
+
+.companies.xlsx
+
+# input files 
+/day-1/input.txt
