@@ -60,4 +60,4 @@ Here you'll find:
 ## 💻 How to Use  
 1. **Clone the Repo**:  
    ```bash
-   git clone https://github.com/yourusername/advent-of-code-2024.git
+   git clone https://github.com/Jaweria-B/advent-of-code-2024.git
