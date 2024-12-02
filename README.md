@@ -21,7 +21,7 @@ Here you'll find:
 | Day | Puzzle 1 | Puzzle 2 |  
 |-----|----------|----------|  
 | 1   | ✅       | ✅       |  
-| 2   | 🚧       | 🚧       |  
+| 2   | ✅       | ✅       |  
 | 3   | 🚧       | 🚧       |  
 *(Table updates daily—stay tuned!)*  
 
@@ -47,13 +47,13 @@ Here you'll find:
 ![Puzzle Solving](https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif)  
 *"Day 1 complete! The joy of debugging and seeing it work is unmatched."*  
 
-### Building the Code  
-![Code Animation](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)  
-*"Code, test, debug, repeat! Advent of Code has never been this fun."*  
+### Day 2 Challenge: Red-Nosed Reports  
+![Analyzing Data](https://media.giphy.com/media/xT5LMphDU5giGkxe3e/giphy.gif)  
+*"Analyzing reports for safety—it’s all about patterns and precision!"*  
 
-### Celebrating a Win  
-![Celebration](https://media.giphy.com/media/xT9DPQZ3FFxuzkUzy8/giphy.gif)  
-*"When the solution finally clicks—time to celebrate!"*  
+### Celebrating Progress  
+![Celebration](https://media.giphy.com/media/3o7TKoWXm3okO1kgHC/giphy.gif)  
+*"Every solution feels like a mini celebration. Onward to Day 3!"*  
 
 ---
 
