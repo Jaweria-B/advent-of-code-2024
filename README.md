@@ -22,7 +22,7 @@ Here you'll find:
 |-----|----------|----------|  
 | 1   | ✅       | ✅       |  
 | 2   | ✅       | ✅       |  
-| 3   | 🚧       | 🚧       |  
+| 3   | ✅       | ✅       |  
 *(Table updates daily—stay tuned!)*  
 
 ---
@@ -44,16 +44,16 @@ Here you'll find:
 ## 📸 Highlights  
 
 ### Day 1 Excitement!  
-![Puzzle Solving](https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif)  
+<!-- ![Puzzle Solving](https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif)   -->
 *"Day 1 complete! The joy of debugging and seeing it work is unmatched."*  
 
 ### Day 2 Challenge: Red-Nosed Reports  
-![Analyzing Data](https://media.giphy.com/media/xT5LMphDU5giGkxe3e/giphy.gif)  
+![Analyzing Data](https://media.giphy.com/media/5xtDarDFnyfWsxgfzp6/giphy.gif)  
 *"Analyzing reports for safety—it’s all about patterns and precision!"*  
 
-### Celebrating Progress  
-![Celebration](https://media.giphy.com/media/3o7TKoWXm3okO1kgHC/giphy.gif)  
-*"Every solution feels like a mini celebration. Onward to Day 3!"*  
+### Day 3: Mull It Over!  
+<!-- ![Innovative Solution](https://media.giphy.com/media/vcR9Qv9dZAZ9zoyUm6/giphy.gif)   -->
+*"Part 1 was smooth, but Part 2 required some deep thought. Coming up with an innovative solution made it even more rewarding!"*  
 
 ---
 
@@ -61,3 +61,5 @@ Here you'll find:
 1. **Clone the Repo**:  
    ```bash
    git clone https://github.com/Jaweria-B/advent-of-code-2024.git
+   ```
+
