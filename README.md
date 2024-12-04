@@ -23,6 +23,7 @@ Here you'll find:
 | 1   | ✅       | ✅       |  
 | 2   | ✅       | ✅       |  
 | 3   | ✅       | ✅       |  
+| 4   | ✅       | ✅       |  
 *(Table updates daily—stay tuned!)*  
 
 ---
@@ -44,16 +45,22 @@ Here you'll find:
 ## 📸 Highlights  
 
 ### Day 1 Excitement!  
-<!-- ![Puzzle Solving](https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif)   -->
+![Debugging Thrills](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)  
 *"Day 1 complete! The joy of debugging and seeing it work is unmatched."*  
 
 ### Day 2 Challenge: Red-Nosed Reports  
-![Analyzing Data](https://media.giphy.com/media/5xtDarDFnyfWsxgfzp6/giphy.gif)  
+![Analyzing Data](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)  
 *"Analyzing reports for safety—it’s all about patterns and precision!"*  
 
 ### Day 3: Mull It Over!  
-<!-- ![Innovative Solution](https://media.giphy.com/media/vcR9Qv9dZAZ9zoyUm6/giphy.gif)   -->
+![Lightbulb Moment](https://media.giphy.com/media/jt7bAtEijhurm/giphy.gif)  
 *"Part 1 was smooth, but Part 2 required some deep thought. Coming up with an innovative solution made it even more rewarding!"*  
+
+### Day 4: Twisting Paths and Patience  
+![Coding Focus](https://media.giphy.com/media/l0MYFK2E1jY8z7C2A/giphy.gif)  
+*"Today's puzzle threw me for a loop with its complexity! After a lot of twists and turns, solving it was incredibly satisfying."*  
+
+<!-- https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif -->
 
 ---
 
@@ -61,5 +68,3 @@ Here you'll find:
 1. **Clone the Repo**:  
    ```bash
    git clone https://github.com/Jaweria-B/advent-of-code-2024.git
-   ```
-
