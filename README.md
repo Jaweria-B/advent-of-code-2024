@@ -60,7 +60,12 @@ Here you'll find:
 ![Coding Focus](https://media.giphy.com/media/l0MYFK2E1jY8z7C2A/giphy.gif)  
 *"Today's puzzle threw me for a loop with its complexity! After a lot of twists and turns, solving it was incredibly satisfying."*  
 
-<!-- https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif -->
+### Day 5: Ordered Chaos  
+![Reordering Pages](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)  
+*"Reordering pages, validating sequences, and fixing updates—it was a deep dive into graph traversal and topological sorting. A fantastic challenge!"*  
+
+
+<!-- -->
 
 ---
 
