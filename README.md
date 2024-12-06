@@ -13,7 +13,7 @@ Advent of Code is a festive programming challenge for the holiday season. Every 
 Here you'll find:  
 - ✅ My solutions to **all 30 days** of Advent of Code 2024 (updated daily).  
 - 🛠️ Step-by-step comments and insights into my thought process.  
-- 📝 Additional resources to learn and explore the logic behind the solutions.
+- 🖍️ Additional resources to learn and explore the logic behind the solutions.
 
 ---
 
@@ -24,6 +24,10 @@ Here you'll find:
 | 2   | ✅       | ✅       |  
 | 3   | ✅       | ✅       |  
 | 4   | ✅       | ✅       |  
+| 5   | ✅       | ✅       |  
+| 6   | ✅       | ✅       |  
+| 7   | 🚧       | 🚧       |  
+| 8   | 🚧       | 🚧       |  
 *(Table updates daily—stay tuned!)*  
 
 ---
@@ -31,14 +35,14 @@ Here you'll find:
 ## 🎉 Why Advent of Code?  
 - 🧠 **Sharpen Problem-Solving**: Strengthen your skills while having fun!  
 - 🎄 **Holiday Spirit**: What better way to celebrate the season than with code?  
-- 🤝 **Community**: Join thousands of programmers worldwide solving the same puzzles!  
+- 🤞 **Community**: Join thousands of programmers worldwide solving the same puzzles!  
 
 ---
 
 ## 🛠️ Technologies Used  
 - 💻 **Python**: Clean, concise, and perfect for puzzles.  
 - 📊 **Data Structures**: Lists, dictionaries, heaps—you name it!  
-- 🧩 **Algorithms**: Sorting, searching, dynamic programming, and beyond.  
+- 🧹 **Algorithms**: Sorting, searching, dynamic programming, and beyond.  
 
 ---
 
@@ -64,8 +68,9 @@ Here you'll find:
 ![Reordering Pages](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)  
 *"Reordering pages, validating sequences, and fixing updates—it was a deep dive into graph traversal and topological sorting. A fantastic challenge!"*  
 
-
-<!-- -->
+### Day 6: Full of Loops! 
+![Reordering Pages](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNqOW40ZGE1anNtZnJhNW9kbHMxMmJ6ajV4dWExcWUyaDUxZDF1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.webp)  
+*"Day 6 was a real brain-bender! It was full of LOOOOOPS. Solving it required both patience and persistence. After many twists and turns, finally cracked it"*  
 
 ---
 
@@ -73,3 +78,5 @@ Here you'll find:
 1. **Clone the Repo**:  
    ```bash
    git clone https://github.com/Jaweria-B/advent-of-code-2024.git
+   ```
+
