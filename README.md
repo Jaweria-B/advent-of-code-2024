@@ -26,7 +26,7 @@ Here you'll find:
 | 4   | ✅       | ✅       |  
 | 5   | ✅       | ✅       |  
 | 6   | ✅       | ✅       |  
-| 7   | 🚧       | 🚧       |  
+| 7   | ✅       | ✅       |  
 | 8   | 🚧       | 🚧       |  
 *(Table updates daily—stay tuned!)*  
 
@@ -70,7 +70,12 @@ Here you'll find:
 
 ### Day 6: Full of Loops! 
 ![Reordering Pages](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNqOW40ZGE1anNtZnJhNW9kbHMxMmJ6ajV4dWExcWUyaDUxZDF1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.webp)  
-*"Day 6 was a real brain-bender! It was full of LOOOOOPS. Solving it required both patience and persistence. After many twists and turns, finally cracked it"*  
+*"Day 6 was a real brain-bender! It was full of LOOOOOPS. Solving it required both patience and persistence. After many twists and turns, finally cracked it"* 
+
+### Day 7: Bridging Operators  
+![Bridging Operators](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)  
+*"Day 7 introduced an entirely new operator—concatenation (`||`)—making it a puzzle of combinations and creativity. Every configuration tested my problem-solving skills. Another day, another bridge crossed!"*  
+
 
 ---
 
